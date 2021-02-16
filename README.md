@@ -8,18 +8,18 @@ Esse projeto foi iniciado em um curso na [Digital Innovation One](https://web.di
 Para testar o jogo acesse: [https://taiaraujo.github.io/snakeJavaScript/](https://taiaraujo.github.io/snakeJavaScript/)
 
 <h2 align="center"> Movimentação no Jogo </h2>
-<p align="center"> <img src="https://github.com/taiaraujo/snakeJavaScript/blob/main/img/site-mov.gif" width="500" height="500"> </p>
+<p align="center"> <img src="https://github.com/taiaraujo/snakeJavaScript/blob/main/img/site-mov.gif" width="800" height="600"> </p>
 
 <h2 align="center"> Reiniciando o Jogo </h2>
-<p align="center"> <img src="https://github.com/taiaraujo/snakeJavaScript/blob/main/img/site-reiniciar.gif" width="500" height="500"> </p>
+<p align="center"> <img src="https://github.com/taiaraujo/snakeJavaScript/blob/main/img/site-reiniciar.gif" width="800" height="600"> </p>
 
 
 <h2 align="center"> "Cobrinha" batendo em seu corpo - Finaliza Partida Atual </h2>
-<p align="center"> <img src="https://github.com/taiaraujo/snakeJavaScript/blob/main/img/site-finalPartida.gif" width="500" height="500"> </p>
+<p align="center"> <img src="https://github.com/taiaraujo/snakeJavaScript/blob/main/img/site-finalPartida.gif" width="800" height="600"> </p>
 
 
 <h2 align="center"> Finalizando o Jogo e Apresentando o Recorde </h2>
-<p align="center"> <img src="https://github.com/taiaraujo/snakeJavaScript/blob/main/img/site-gameOver.gif" width="500" height="500"> </p>
+<p align="center"> <img src="https://github.com/taiaraujo/snakeJavaScript/blob/main/img/site-gameOver.gif" width="800" height="600"> </p>
 
 
 ## Tecnologias Utilizadas
