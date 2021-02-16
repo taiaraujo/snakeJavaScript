@@ -1,0 +1,15 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-direction: column;
+    background-color:white;
+    color: rgb(52, 165, 52);
+}
+
+.lista ul li {
+    display: inline-block;
+    padding-right: 2px;
+}

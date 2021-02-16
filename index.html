@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="script.css">
+    <script defer src="script.js"></script>
+    <title>Snake Game</title>
+</head>
+<body>
+    <h1> 🐍🐍🐍 __Snake Game__ 🐍🐍🐍</h1>
+    <!-- Parte Gráfica do Jogo -->
+    <canvas id="snake" width="512" height="512"> </canvas>
+
+    <table> 
+        <tr>
+            <th> Pontuação </th>
+            <th> Recorde </th>
+        </tr>
+        <tr>
+            <td id="pCurrent"> </td>
+            <td id="pRecord"> </td>
+        </tr>
+    </table>
+
+    <button onClick="restart()"> Reiniciar </button>
+    <button onClick="over()"> Parar </button>
+
+</body>
+</html>
