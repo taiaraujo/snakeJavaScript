@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# SNAKE GAME 🐍 WITH JAVASCRIPT
 
-You can use the [editor on GitHub](https://github.com/taiaraujo/snakeJavaScript/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> Recriando o clássico **Snake Game**, também conhecido como o *"jogo da cobrinha"*, utilizando JavaScript.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Esse projeto foi iniciado em um curso na [Digital Innovation One](https://web.digitalinnovation.one), com a Desenvolvedora [Gabriela Pinheiro](https://github.com/SpruceGabriela/snake-the-game). Contudo, o código apresenta algumas funções a mais do que proposto inicialmente. Nessa versão do jogo contamos com uma pontuação, a cada vez que a cobra come um alimento ganha 1 (um) ponto. Também é possível reiniciar a partida, e o jogo só termina quando o jogador pressiona o botão *Parar*. Abaixo segue as telas de demonstração.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Para testar o jogo acesse: [https://taiaraujo.github.io/snakeJavaScript/](https://taiaraujo.github.io/snakeJavaScript/)
 
-```markdown
-Syntax highlighted code block
+<h2 align="center"> Movimentação no Jogo </h2>
+<p align="center"> <img src="https://github.com/taiaraujo/snakeJavaScript/blob/main/img/site-mov.gif" width="500" height="500"> </p>
 
-# Header 1
-## Header 2
-### Header 3
+<h2 align="center"> Reiniciando o Jogo </h2>
+<p align="center"> <img src="https://github.com/taiaraujo/snakeJavaScript/blob/main/img/site-reiniciar.gif" width="500" height="500"> </p>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<h2 align="center"> "Cobrinha" batendo em seu corpo - Finaliza Partida Atual </h2>
+<p align="center"> <img src="https://github.com/taiaraujo/snakeJavaScript/blob/main/img/site-finalPartida.gif" width="500" height="500"> </p>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<h2 align="center"> Finalizando o Jogo e Apresentando o Recorde </h2>
+<p align="center"> <img src="https://github.com/taiaraujo/snakeJavaScript/blob/main/img/site-gameOver.gif" width="500" height="500"> </p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Tecnologias Utilizadas
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taiaraujo/snakeJavaScript/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Referências
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Digital Innovation One](https://web.digitalinnovation.one)
+- [Gabriela Pinheiro](https://github.com/SpruceGabriela/snake-the-game)
+
+## License
+MIT License
