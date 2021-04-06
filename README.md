@@ -5,6 +5,8 @@
 
 Esse projeto foi iniciado em um curso na [Digital Innovation One](https://web.digitalinnovation.one), com a Desenvolvedora [Gabriela Pinheiro](https://github.com/SpruceGabriela/snake-the-game). Contudo, o código apresenta algumas funções a mais do que proposto inicialmente. Nessa versão do jogo contamos com uma pontuação, a cada vez que a cobra come um alimento ganha 1 (um) ponto. Também é possível reiniciar a partida, e o jogo só termina quando o jogador pressiona o botão *Parar*. Abaixo segue as telas de demonstração.
 
+Possiveis atualizações: A cobra morrer quando bate na parede
+
 Para testar o jogo acesse: [https://taiaraujo.github.io/snakeJavaScript/](https://taiaraujo.github.io/snakeJavaScript/)
 
 <h2 align="center"> Movimentação no Jogo </h2>
